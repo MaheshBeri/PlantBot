@@ -1,0 +1,6 @@
+/bin
+*.class
+/target
+/tst
+*.crt
+*.key
