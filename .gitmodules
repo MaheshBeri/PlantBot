@@ -1,0 +1,3 @@
+[submodule "ServiceBotIoT"]
+	path = ServiceBotIoT
+	url = https://github.com/MaheshBeri/mrcloud.git
